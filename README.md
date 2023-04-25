@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enaifuos17&show_icons=true&locale=en" alt="enaifuos17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enaifuos17&" alt="enaifuos17" /></p>
+
+<h2 align="center" style="color: green;"><em>I would be grateful if you could ⭐ some of the REPOS</em></h2>
