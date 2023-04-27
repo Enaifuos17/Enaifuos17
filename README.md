@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there
-    <img src="https://media1.giphy.com/media/DRUAoxfi694kCydNN1/giphy.gif?cid=6c09b952e7164e5878e38181ec2d6c77326dc9ee3c0ec1ff&rid=giphy.gif&ct=s" height="20px"></img>, I'm Soufiane</h1>
+    <img src="https://media1.giphy.com/media/DRUAoxfi694kCydNN1/giphy.gif?cid=6c09b952e7164e5878e38181ec2d6c77326dc9ee3c0ec1ff&rid=giphy.gif&ct=s" height="30px"></img>, I'm Soufiane</h1>
 <h3 align="center"><em>A Passionate Web Developer</em></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enaifuos17&label=Profile%20views&color=0E4C92&style=flat" alt="enaifuos17" /> </p>
