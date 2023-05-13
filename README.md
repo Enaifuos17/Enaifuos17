@@ -6,7 +6,7 @@
 
 - 📝 Current student at **ALX Africa (SE program)**
 
-- 🌱 I’m currently learning **C Language**
+- 🌱 I’m currently learning **C and PHP Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Enaifuos17](https://github.com/Enaifuos17)
 
