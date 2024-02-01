@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enaifuos17&label=Profile%20views&color=0E4C92&style=flat" alt="enaifuos17" /> </p>
 
-- 📝 Current student at **ALX Africa (SE program)**
+- 📝 Current student at **ARK-X Academy (MERN program)**
 
-- 🌱 I’m currently learning **C and PHP Languages**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Enaifuos17](https://github.com/Enaifuos17)
 
